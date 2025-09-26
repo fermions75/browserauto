@@ -1,0 +1,20 @@
+curl ^"https://api-prod.grip.events/1/container/8836/thing/user_id/match_manual/yes/to_thing/14625916^" ^
+  -H ^"accept: application/json^" ^
+  -H ^"accept-language: en-gb^" ^
+  -H ^"cache-control: No-Cache^" ^
+  -H ^"content-type: application/json^" ^
+  -H ^"login-source: web^" ^
+  -H ^"origin: https://matchmaking.grip.events^" ^
+  -H ^"pragma: No-Cache^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://matchmaking.grip.events/ctm2025/app/home/network/list/114042?page=1^&sort=name^" ^
+  -H ^"sec-ch-ua: ^\^"Chromium^\^";v=^\^"140^\^", ^\^"Not=A?Brand^\^";v=^\^"24^\^", ^\^"Google Chrome^\^";v=^\^"140^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?0^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-site^" ^
+  -H ^"user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36^" ^
+  -H ^"x-authorization: b27e4174-06b5-4682-b1f5-455fc9e2ac17^" ^
+  -H ^"x-grip-version: Web/43.0.1^" ^
+  --data-raw ^"^{^\^"message^\^":^\^"Steph here- cofounder of WasteSync, an AI platform modernizing waste management. We automate compliance, emissions tracking ^& invoicing, helping haulers cut costs and streamline operations. Early traction-would love to connect^ and^ share^ more.^\^"^}^"
